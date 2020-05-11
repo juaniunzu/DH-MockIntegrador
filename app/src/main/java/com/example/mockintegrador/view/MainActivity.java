@@ -1,8 +1,10 @@
-package com.example.mockintegrador;
+package com.example.mockintegrador.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.mockintegrador.R;
 
 public class MainActivity extends AppCompatActivity {
 
